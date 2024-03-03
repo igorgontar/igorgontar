@@ -1,6 +1,6 @@
 ### Hi there 
 This is special repo, because its `README.md` appears on my GitHub profile.
-It's also needed to host web pages on igorgontar@github.io
+It's also needed to host web pages on igorgontar.github.io
 <!--
 **igorgontar/igorgontar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
